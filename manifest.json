@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Top 50 Spotify",
+    "version": "1.0",
+    "description": "Obtenha as top 50 músicas mais escutadas no Spotify.",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
